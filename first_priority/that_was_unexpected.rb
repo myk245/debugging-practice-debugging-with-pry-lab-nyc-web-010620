@@ -7,7 +7,7 @@ class Person
   end
 
   def tall?
-    puts true
+    true
   end
 
   def basketball_player?
