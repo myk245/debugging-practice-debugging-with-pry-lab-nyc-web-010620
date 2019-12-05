@@ -1,3 +1,4 @@
+require 'relative'
 require 'pry'
 
 class Person
